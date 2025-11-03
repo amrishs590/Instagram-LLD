@@ -43,8 +43,8 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** princ
 | **Libraries Used** | `<bits/stdc++.h>`, STL (`vector`, `unordered_map`, `find`) |
 | **Paradigm** | Object-Oriented Programming (OOP) |
 | **Environment** | Console Application |
-| **Compiler (Recommended)** | g++ / MinGW / GCC |
-| **IDE (Optional)** | VS Code / Code::Blocks / CLion |
+| **Compiler** | g++ / MinGW / GCC |
+| **IDE** | VS Code  |
 
 ---
 
