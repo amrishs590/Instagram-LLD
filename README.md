@@ -50,8 +50,8 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** princ
 
 ## 🗂️ Class Structure
 
-**class NewUser**
-    Represents each registered user and stores:
+**Class NewUser**
+    - Represents each registered user and stores:
     - `userId`, `userName`, `userPassword`
     - Number of followers & following
     - Lists of followers and following usernames  
